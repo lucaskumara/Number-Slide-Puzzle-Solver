@@ -2,7 +2,7 @@
 A python program that can solve and display the solution to a [number slide puzzle.](http://www.artbylogic.com/puzzles/numSlider/numberShuffle.htm)
 
 ## Purpose
-This assignment was the first assignment given to me when I did my intro to artificial intelligence course. I am very proud of the work I did in this course and as such I've decided to put the code on GitHub.
+This assignment was the first assignment given to me when I did my intro to artificial intelligence course. I am very proud of the work I did in this course and as such I've decided to put the code for my three assignments up on GitHub.
 
 The assignment was introducing us to a number of searching algorithms, three of which were implemented in the code:
 * Breadth First Search
